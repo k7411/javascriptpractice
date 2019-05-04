@@ -1,2 +1,2 @@
 # javascriptpractice
-javascript exercise random js files from Eloquent JavaScript
+javascript exercise & random js files from Eloquent JavaScript
