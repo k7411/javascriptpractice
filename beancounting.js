@@ -24,4 +24,4 @@ function countChar(word,char){
 
 };
 
-countChar("Karan rajBhar","a");
+countChar("heloo aloha","a");
