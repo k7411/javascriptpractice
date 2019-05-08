@@ -20,6 +20,4 @@ console.log(sequence);
 
 console.log(sequence.pop());
 
-console.log(sequence);
 
-????
